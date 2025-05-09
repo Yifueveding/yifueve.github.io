@@ -13,4 +13,4 @@ The reliability of power systems under the impact of increasing renewable penetr
 
 - Distributionally robust model.
 
-- Power system planning under uncertainty.
+- Energy system planning under uncertainty.
