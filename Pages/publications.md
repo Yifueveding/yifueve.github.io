@@ -2,7 +2,7 @@
 layout: publications
 permalink: /publications/
 title: Publications
-description: My google scholar profile is <a href="https://twitter.com/yifu0529"> here </a>.  
+description: My google scholar profile is <a href="https://scholar.google.co.uk/citations?user=OzBUWyEAAAAJ&hl=en"> here </a>.  
 
 years: [1967, 1956, 1950, 1935, 1905]
 nav: true
