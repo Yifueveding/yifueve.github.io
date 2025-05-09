@@ -9,7 +9,7 @@ nav_order: 5
 
 **Teaching** 
 
-* Leading Teaching Assistant, Optimization Methods in Business Analytics, MIT Sloan School of
+*Leading Teaching Assistant, Optimization Methods in Business Analytics, MIT Sloan School of
 Management                                                                                     Spring 2025
 Course organizers: Prof. James B. Orlin, Prof. Thomas Magnanti
 + Leading a teaching assistant team in addressing inquiries during office hours, preparing the mid-term
