@@ -2,7 +2,7 @@
 layout: publications
 permalink: /publications/
 title: Publications
-description: A summary of my publications in reversed chronological order. My google scholar profile is <a href="https://twitter.com/yifu0529"> here </a>.  
+description: My google scholar profile is <a href="https://twitter.com/yifu0529"> here </a>.  
 
 years: [1967, 1956, 1950, 1935, 1905]
 nav: true
@@ -14,7 +14,7 @@ nav_order: 1
 
 **2023**
 
-- Y.Ding, B. Hobbs, "Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach, (Pre-print after revisions), https://arxiv.org/abs/2306.12644
+- Y.Ding, B. Hobbs, "Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach, https://arxiv.org/abs/2306.12644
 
 - Y. Ding, S. Wang, and B. Hobbs, "Coordinating renewable microgrids for reliable energy and reserve services: a distributionally robust chance-constrained game model", The 14th ACM International Conference on Future Energy Systems.
 
