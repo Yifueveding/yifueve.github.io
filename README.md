@@ -7,7 +7,7 @@ I am a post-doctoral research associate at MIT Energy Initiative \& Sloan School
 
 The reliability of power systems under the impact of increasing renewable penetration and extreme weather conditions is a rising concern globally. My research interests include machine learning probabilistic forecasting, data-driven control and optimisation for energy systems considering uncertainty. My works aim to find appealing solutions in both system design and short-term operations. I have specific research interests in:
 
-- Machine learning probabilistic forecasting.
+- Machine learning forecasting.
 
 - Joint chance-constrained optimization.
 
