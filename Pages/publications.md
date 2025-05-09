@@ -14,13 +14,13 @@ nav_order: 1
 
 **2025**
 
--The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis
+- The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis
 Yifu Ding, Dharik Mallapragada, Robert Stoner
 Energy for Sustainable Development, 2025
 
 **2024**
 
--Repurposing Coal Power Plants into Thermal Energy Storage for Supporting Zero-carbon Data Center
+- Repurposing Coal Power Plants into Thermal Energy Storage for Supporting Zero-carbon Data Center
 Yifu Ding, Dharik Mallapragada, Serena Patel, Robert Stoner, 2024 IEEE PES General Meeting 
 
 **2023**
