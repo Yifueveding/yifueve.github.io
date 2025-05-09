@@ -1,6 +1,6 @@
 [CV](https://yifueve.github.io/cv/) | [Teaching](https://yifueve.github.io/teaching/) | [Projects](https://yifueve.github.io/projects/) |[Publications](https://yifueve.github.io/publications/) | [Awards](https://yifueve.github.io/award/)| [Outreach](https://yifueve.github.io/outreach/)
 
-I am a post-doctoral research fellow at MIT Energy Initiative \& Sloan School of Managament. I have been fortunate to be supervised by [Professor Thomas Magnanti](https://mitsloan.mit.edu/faculty/directory/thomas-magnanti) and work with research scientist [Pablo Duenas-Martinez](https://energy.mit.edu/profile/pablo-duenas-martinez/).
+I am a post-doctoral research associate at MIT Energy Initiative \& Sloan School of Managament. I have been fortunate to be supervised by [Professor Thomas Magnanti](https://mitsloan.mit.edu/faculty/directory/thomas-magnanti) and work with research scientist [Pablo Duenas-Martinez](https://energy.mit.edu/profile/pablo-duenas-martinez/).
 
 
 ## Research interests
