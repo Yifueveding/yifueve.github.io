@@ -14,4 +14,4 @@
 
 # About Me
 
-I am a post-doctoral research associate at MIT Energy Initiative \& Sloan School of Managament. I graduated with a PhD in Engineering Science at Univeristy of Oxford, worked with I have been fortunate to be supervised by [Professor Thomas Magnanti](https://mitsloan.mit.edu/faculty/directory/thomas-magnanti) and work with research scientist [Pablo Duenas-Martinez](https://energy.mit.edu/profile/pablo-duenas-martinez/).
+I am a Shell Energy Scholar affiliated with MIT Energy Initiative \& MIT Sloan School of Managament. I graduated with a PhD in Engineering Science at Univeristy of Oxford, worked with I have been fortunate to be supervised by [Professor Thomas Magnanti](https://mitsloan.mit.edu/faculty/directory/thomas-magnanti) and work with research scientist [Pablo Duenas-Martinez](https://energy.mit.edu/profile/pablo-duenas-martinez/).
