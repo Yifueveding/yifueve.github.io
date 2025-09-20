@@ -1,14 +1,18 @@
 ---
 layout: projects
-title: Research Projects
+title: Research Highlights
 permalink: /projects/
-description: A summary of my research projects in reverse chronological order.
+description: A summary of my research projects and highlights.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 
----
+
+
+
+
+<!-- ---
 
 **Risk-aware game framework for coordinating microgrids in the energy and reserve markets**
 
@@ -40,6 +44,6 @@ horizontal: false
 - The research is published as a co-authored report on the Turing website page. 
 
 <h2> </h2>
-<img src="/img/turing.JPG" alt="Turing_photos">
+<img src="/img/turing.JPG" alt="Turing_photos"> -->
 
 
