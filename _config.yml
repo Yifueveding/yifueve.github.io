@@ -3,8 +3,9 @@ logo: /img/Professional_headshot.JPG
 
 description: "Shell Energy Scholar at MIT Energy Initiative | Ph.D. in Engineering Science, Oxford University. | Data-driven stochastic optimization | Clean and reliable energy systems :mute:"
 show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
 include: ['pages']
 
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jemoji
