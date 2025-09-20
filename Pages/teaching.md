@@ -46,7 +46,6 @@ nav_order: 5
 **First-Year C++ Software Laboratory** | *January - March 2021*
 - Demonstrated programming concepts and assessed student laboratory work
 - Guided students through fundamental C++ programming exercises
-- [💾 Lab Exercise Examples](../assets/teaching/cpp-lab-materials.pdf)
 
 **First-Year Electrical Laboratory** | *January - March 2020, October - December 2020*
 - Demonstrated electrical engineering laboratory procedures and safety protocols
