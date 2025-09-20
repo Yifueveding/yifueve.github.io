@@ -1,5 +1,12 @@
 
-# Navigation
+
+Yifu Eve Ding
+
+<div style="text-align: center; margin: 20px 0;">
+  <a href="mailto:your-email@mit.edu" style="margin: 0 10px; text-decoration: none;">📧 Email</a> |
+  <a href="https://twitter.com/your-twitter" style="margin: 0 10px; text-decoration: none;">🐦 Twitter</a> |
+  <a href="https://github.com/yifueve" style="margin: 0 10px; text-decoration: none;">💻 GitHub</a>
+</div>
 
 [CV](https://yifueve.github.io/cv/) | [Teaching](https://yifueve.github.io/teaching/) | [Projects](https://yifueve.github.io/projects/) |[Publications](https://yifueve.github.io/publications/) | [Awards](https://yifueve.github.io/award/)| [Outreach](https://yifueve.github.io/outreach/)
 
