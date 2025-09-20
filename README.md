@@ -12,7 +12,7 @@
 </div>
 
 <div style="text-align: center; margin: 20px 0; font-size: 16px;">
-  <!-- <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> | -->
+  <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> |
   <a href="https://yifueve.github.io/projects/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Projects</a> |
   <a href="https://yifueve.github.io/teaching/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Teaching</a> |
   <a href="https://yifueve.github.io/publications/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Publications</a> |
