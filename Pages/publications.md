@@ -9,36 +9,30 @@ nav: true
 nav_order: 1
 ---
 
+My google scholar profile is <a href="https://scholar.google.co.uk/citations?user=OzBUWyEAAAAJ&hl=en"> here </a>.  
 
-<br />
+---
+## Data Center Planning and Operations
 
-**2025**
+### Distributionally Robust Optimization (DRO) for Power Network and DC Systems under Uncertainty
 
-- Y. Ding, D. Mallapragada, &  R. J. Stoner (2025). The role of coal plant retrofitting strategies in developing India’s net-zero power system: A data-driven sub-national analysis. Energy for Sustainable Development, 86, 101687.
 
-**2024**
+---
+## Power Network Under Renewable Uncertainty
 
-- Y. Ding, D. Mallapragada, S. Patel and R. J. Stoner, "Repurposing Coal Power Plants into Thermal Energy Storage for Supporting Zero-carbon Data Centers," 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5, doi: 10.1109/PESGM51994.2024.10688708.
+### Distributionally Robust Optimization (DRO) for Power Network under Renewable Uncertainty
 
-**2023**
 
-- Y.Ding, B. Hobbs, "Joint Chance-constrained Game for Coordinating Microgrids in Energy and Reserve Markets: A Bayesian Optimization Approach, https://arxiv.org/abs/2306.12644
+---
 
-- Y. Ding, S. Wang, and B. Hobbs, "Coordinating renewable microgrids for reliable energy and reserve services: a distributionally robust chance-constrained game model", The 14th ACM International Conference on Future Energy Systems.
+## Transportation Electrification and Infrastructure Planning
 
-**2022**
+### Decision-dependent Robust Charging Infrastructure Planning for Light-duty Truck Electrification at Industrial Sites: Scheduling and Abandonment
 
-- Y. Ding, T. Morstyn and M. D. McCulloch, "Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty," in IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2022.3150397.
 
-**2021**
 
-- Y. Ding and M. D. McCulloch, "Distributionally robust optimization for networked microgrids considering contingencies and renewable uncertainty," 2021 60th IEEE Conference on Decision and Control (CDC), 2021, pp. 2330-2335, doi: 10.1109/CDC45484.2021.9683658.
+---
 
-- Y. Ding, M.D. McCulloch, Additive Gaussian process prediction for electrical loads compared with deep learning models, The 12th ACM International Conference on Future Energy Systems, June 2021, doi: 10.1145/3447555.3466592
+## Machine Learning and Data-Driven Optimization
 
-**Before 2020**
-
-- Data Study Group, Green Radio: Dynamic power saving configuration for mobile networks, The Alan Turing Institute Report, 2020, http://doi.org/10.5281/zenodo.3786852.
-
-- Y. Ding, R. Moreira, D. Cedillos, Assessment of the Value of Frequency Response Times in Power Systems, IEEE PES Innovative Smart Grid Technologies Europe, 2019, doi: 10.1109/ISGTEurope.2019.8905596
-
+### Machine Learning (ML) and Data Fusion for Large-scale Capacity Planning Problem
