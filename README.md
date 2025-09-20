@@ -8,8 +8,6 @@
   <a href="https://github.com/yifueve" style="margin: 0 10px; text-decoration: none;">💻 GitHub</a>
 </div>
 
-# Other Pages
-
 <div style="text-align: center; margin: 20px 0; font-size: 16px;">
   <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> |
   <a href="https://yifueve.github.io/teaching/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Teaching</a> |
