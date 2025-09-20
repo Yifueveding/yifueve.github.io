@@ -16,7 +16,6 @@
               border-radius: 15px; 
               border: 3px solid #666; 
               box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
-</div>
 
 
 
@@ -29,7 +28,3 @@ My research interests focus on data-driven operations and planning for sustainab
 I hold a PhD in Engineering Science from the University of Oxford, where I worked with [Prof. Malcolm McCulloch](https://eng.ox.ac.uk/people/malcolm-mcculloch/), [Prof. Thomas Morstyn](https://eng.ox.ac.uk/people/thomas-morstyn/) and other brilliant mentors.
 
 
-
-
-
-</div>
