@@ -9,7 +9,7 @@
               border: 3px solid #666; 
               box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
 
-
+</div>
 
 <div style="text-align: center; margin: 20px 0; font-size: 16px;">
   <!-- <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> | -->
