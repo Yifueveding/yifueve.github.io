@@ -15,7 +15,7 @@ nav_order: 5
 
 - Leading a teaching assistant team in addressing inquiries during office hours, preparing mid-term examinations, and grading assignments
 - Conducting weekly recitation sessions for graduate students
-- [📊 Sample Recitation Materials](../assets/teaching/Kuhn_Poker_Project.pdf)
+- [📊 Developed Group Project Materials](../assets/teaching/Kuhn_Poker_Project.pdf)
 
 ### Co-instructor | MIT Energy Initiative
 **IAP Computational Modeling for Promoting Low-Carbon Electricity** | *Spring 2024, 2025*
@@ -23,7 +23,7 @@ nav_order: 5
 - Developed comprehensive lecture notes introducing open-source capacity expansion models
 - Delivered hands-on tutorials for building capacity expansion models using Julia programming
 - [📈 Lecture Notes Download](../assets/teaching/IAP_GenX_introduction_2025.pdf)
-- [💻 Julia Code Examples](../assets/teaching/julia-examples.zip)
+- [💻 Julia Code Examples](https://zenodo.org/records/15865702)
 
 ---
 
