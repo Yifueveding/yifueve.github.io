@@ -1,11 +1,3 @@
-<div style="text-align: center; margin: 20px 0; font-size: 16px;">
-  <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> |
-  <a href="https://yifueve.github.io/teaching/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Teaching</a> |
-  <a href="https://yifueve.github.io/projects/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Projects</a> |
-  <a href="https://yifueve.github.io/publications/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Publications</a> |
-  <a href="https://yifueve.github.io/award/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Awards</a> |
-  <a href="https://yifueve.github.io/outreach/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Outreach</a>
-</div>
 
 
 <div style="text-align: center; margin: 30px 0;">
@@ -18,6 +10,15 @@
               box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
 
 
+
+<div style="text-align: center; margin: 20px 0; font-size: 16px;">
+  <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> |
+  <a href="https://yifueve.github.io/teaching/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Teaching</a> |
+  <a href="https://yifueve.github.io/projects/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Projects</a> |
+  <a href="https://yifueve.github.io/publications/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Publications</a> |
+  <a href="https://yifueve.github.io/award/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Awards</a> |
+  <a href="https://yifueve.github.io/outreach/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Outreach</a>
+</div>
 
 I am a Shell Energy Scholar at MIT Energy Initiative and MIT Sloan School of Management. I have been fortunate to be supervised by [Professor Thomas Magnanti](https://mitsloan.mit.edu/faculty/directory/thomas-magnanti) and work with research scientist [Dr. Pablo Duenas-Martinez](https://energy.mit.edu/profile/pablo-duenas-martinez/).
 
