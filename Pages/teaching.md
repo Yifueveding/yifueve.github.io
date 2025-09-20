@@ -15,7 +15,7 @@ nav_order: 5
 
 - Leading a teaching assistant team in addressing inquiries during office hours, preparing mid-term examinations, and grading assignments
 - Conducting weekly recitation sessions for graduate students
-- [📊 Sample Recitation Materials](../assets/teaching/optimization-recitation-slides.pdf)
+- [📊 Sample Recitation Materials](../assets/teaching/IAP_GenX_introduction_2025.pdf)
 
 ### Co-instructor | MIT Energy Initiative
 **IAP Computational Modeling for Promoting Low-Carbon Electricity** | *Spring 2024, 2025*
