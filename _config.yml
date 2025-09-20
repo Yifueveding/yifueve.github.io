@@ -8,12 +8,12 @@
 
 
 title: Yifu Eve Ding
-logo: /img/Professional_headshot.JPG
+# logo: /img/Professional_headshot.JPG
 #description: Shell Energy Scholar at MIT Energy Initiative and MIT Sloan School of Management
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
 # Custom CSS
-sass:
-  style: compressed
+# sass:
+#   style: compressed
