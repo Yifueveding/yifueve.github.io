@@ -1,74 +1,22 @@
-div style="text-align: center; margin-bottom: 30px;">
-
-
-
-  <img src="/img/Professional_headshot.JPG" 
-
-
-       alt="Yifu Eve Ding"
-
-
-       style="max-width: 200px; 
-
-
-              height: auto; 
-
-
-              border-radius: 10px; 
-
-
-              border: 2px solid #777; 
-
-
-              box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
 <div style="text-align: center; margin: 20px 0; font-size: 16px;">
-
-
   <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> |
-
-
   <a href="https://yifueve.github.io/teaching/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Teaching</a> |
-
-
   <a href="https://yifueve.github.io/projects/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Projects</a> |
-
-
   <a href="https://yifueve.github.io/publications/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Publications</a> |
-
-
   <a href="https://yifueve.github.io/award/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Awards</a> |
-
-
   <a href="https://yifueve.github.io/outreach/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Outreach</a>
-
-
 </div>
 
 
-
-
-
-<div style="max-width: 800px; margin: 0 auto; padding: 0 20px; text-align: justify; line-height: 1.6;">
-
-
-
-
-
-<div style="max-width: 700px; margin: 0 auto; padding: 0 20px;">
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/img/Professional_headshot.JPG" 
+       alt="Yifu Eve Ding"
+       style="max-width: 250px; 
+              height: auto; 
+              border-radius: 15px; 
+              border: 3px solid #666; 
+              box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
+</div>
 
 
 
