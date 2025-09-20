@@ -4,7 +4,7 @@
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="/img/Professional_headshot.JPG" 
        alt="Yifu Eve Ding"
-       style="max-width: 50px; 
+       style="max-width: 200px; 
               height: auto; 
               border-radius: 10px; 
               border: 2px solid #777; 
