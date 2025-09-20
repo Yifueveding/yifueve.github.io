@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Research Highlights
+title: projects
 permalink: /projects/
 description: A summary of my research projects and highlights.
 nav: true

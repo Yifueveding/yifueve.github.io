@@ -7,15 +7,6 @@ nav: true
 nav_order: 5
 ---
 
----
-layout: teaching
-permalink: /teaching/
-title: Teaching 
-description: My teaching experience spans graduate and undergraduate levels, focusing on optimization, computational modeling, and control systems.
-nav: true
-nav_order: 5
----
-
 ## Graduate Level Instruction
 
 ### Leading Teaching Assistant | MIT Sloan School of Management
