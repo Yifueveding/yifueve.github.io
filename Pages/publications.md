@@ -11,7 +11,11 @@ nav_order: 1
 ---
 ## Data Center Planning and Operations
 
-### Distributionally Robust Optimization (DRO) for Power Network and DC Systems under Uncertainty
+The global energy landscape is transforming in the era of artificial intelligence, driven by rapidly increasing
+electricity demands from data centers, which are expected to double or even triple by 2030. This
+surge presents two pressing challenges: managing DC loads in real-time to align with grid regulations and
+planning DC loads which has high pwoer consumptions, especially for hyperscalers.
+
 
 
 ---
@@ -30,7 +34,7 @@ nav_order: 1
 
 ---
 
-## Machine Learning and Data-Driven Optimization
+## Machine Learning (ML) and Data-Driven Optimization
 
-### Machine Learning (ML) and Data Fusion for Large-scale Capacity Planning Problem
+### ML and Data Fusion for Large-scale Capacity Planning Problem
 
