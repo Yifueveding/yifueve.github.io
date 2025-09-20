@@ -1,7 +1,19 @@
-show_downloads: false
-remote_theme: pages-themes/cayman@v0.2.0
-include: ['pages']
+# show_downloads: false
+# remote_theme: pages-themes/minimal@v0.2.0
+# include: ['pages']
 
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-  - jemoji
+# plugins:
+#   - jekyll-remote-theme # add this line to the plugins list if you already have one
+#   - jemoji
+
+
+title: Yifu Eve Ding
+logo: /img/Professional_headshot.JPG
+#description: Shell Energy Scholar at MIT Energy Initiative and MIT Sloan School of Management
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+# Custom CSS
+sass:
+  style: compressed

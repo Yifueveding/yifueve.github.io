@@ -1,5 +1,5 @@
 
-
+<!-- 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/img/Professional_headshot.JPG" 
        alt="Yifu Eve Ding"
@@ -7,7 +7,7 @@
               height: auto; 
               border-radius: 15px; 
               border: 3px solid #666; 
-              box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
+              box-shadow: 0 6px 12px rgba(0,0,0,0.15);"> -->
 
 
 
