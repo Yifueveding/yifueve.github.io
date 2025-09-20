@@ -4,11 +4,16 @@ I am a post-doctoral research associate at MIT Energy Initiative \& Sloan School
 
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="/img/Professional_headshot.JPG" 
-       alt="Yifu Eve Ding" 
-       style="width: 200px; height: 200px; border-radius: 50%; 
-              object-fit: cover; border: 3px solid #777; 
+       alt="Yifu Eve Ding"
+       style="max-width: 200px; 
+              height: auto; 
+              border-radius: 10px; 
+              border: 2px solid #777; 
               box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
+
+# About Me
+
 
 # About Me
 
