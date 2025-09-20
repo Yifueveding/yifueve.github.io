@@ -5,7 +5,7 @@ I am a post-doctoral research associate at MIT Energy Initiative \& Sloan School
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="/img/Professional_headshot.JPG" 
        alt="Yifu Eve Ding"
-       style="max-width: 200px; 
+       style="max-width: 100px; 
               height: auto; 
               border-radius: 10px; 
               border: 2px solid #777; 
