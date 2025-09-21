@@ -15,7 +15,7 @@
   <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> |
   <a href="https://yifueve.github.io/publications/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Research</a> |
   <a href="https://yifueve.github.io/teaching/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Teaching</a> |
-  <a href="https://yifueve.github.io/award/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Awards</a> |
+  <a href="https://yifueve.github.io/award/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Impacts</a> |
   <a href="https://yifueve.github.io/outreach/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">Outreach</a>
 </div>
 
