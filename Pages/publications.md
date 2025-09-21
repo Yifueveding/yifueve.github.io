@@ -37,9 +37,9 @@ The rise of artificial intelligence is driving surging electricity demand from d
 
 ## Machine Learning (ML) and Data-Driven Optimization for Large-scale Capacity Planning Problem
 
-Capcity expansion problem is one of the most classical problems in energy system planning, which requires multiple data sources as inputs. I leveraged the ML techniques 
+The capacity expansion problem is a classical problem for energy system planning, requiring the integration of diverse data sources. In this work, I applied machine learning techniques and data-driven optimization to model the expansion of power generation and transmission networks across 30 regions in India. Simulations were run under four technology scenarios with progressively tighter carbon emission limits, accounting for sub-national coal price variations and the plant-level thermal efficiency of coal units. A unique aspect of this study is the exploration of retrofitting existing coal power plants—a first-of-its-kind analysis in the Indian context. Unlike prior research, this work leverages a comprehensive, machine-learning-based dataset of coal power plants. Results show that while scaling renewable energy sources such as solar and wind remains the most cost-effective pathway to decarbonization, retrofitting provides a more balanced approach when considering both system costs and energy justice. To promote transparency and reproducibility, all model results and input data are openly available. Notably, one dataset—the station heat rates of 806 Indian coal power plants—was awarded the 2024 MIT Open Data Prize.
 
-### Paper 1: The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis [Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)[Code][Media]
+### Paper 1: The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis [Paper](../assets/research/Acticle_in_press.pdf) [Model Instruction](../assets/research/Supplementary_Materials.pdf)[Code]()[Media](https://news.mit.edu/2025/how-can-india-decarbonize-its-coal-dependent-electric-power-system-0506)
 
 ### Paper 2: A dataset of the operating station heat rate for 806 Indian coal plant units using machine learning [Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)[Code][Media]
 
