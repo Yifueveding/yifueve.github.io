@@ -36,5 +36,5 @@ I have been also met and presented my research to many academic and industrial l
 
 <h2> </h2>
 <img src="/img/turing.JPG" alt="turing" width="200">
-  <figcaption> Presented ML forecasting research to GSM Association (GSMA) chief startegies officer, Laxmi Akkaraju </figcaption>
+  <figcaption> Presented ML forecasting for mobile demand research to GSM Association (GSMA) chief startegies officer, Laxmi Akkaraju </figcaption>
 </figure>
