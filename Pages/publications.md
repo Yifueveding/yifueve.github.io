@@ -41,7 +41,7 @@ The capacity expansion problem is a classical problem for energy system planning
 
 ### Paper 1: The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis [*Paper/*](../assets/research/Acticle_in_press.pdf) [*Model Instruction/*](../assets/research/Supplementary_Materials.pdf) [*Code/*](https://zenodo.org/records/12684827) [*Media/*](https://news.mit.edu/2025/how-can-india-decarbonize-its-coal-dependent-electric-power-system-0506)
 
-### Paper 2: A dataset of the operating station heat rate for 806 Indian coal plant units using machine learning [*Paper/*](../assets/research/data_in_brief.pdf)[*Code/*](https://zenodo.org/records/13921645)[*Media/*]=(https://libraries.mit.edu/opendata/open-data-mit-home/mit-prize/2024-mit-prize-for-open-data/)
+### Paper 2: A dataset of the operating station heat rate for 806 Indian coal plant units using machine learning [*Paper/*](../assets/research/data_in_brief.pdf)[*Code/*](https://zenodo.org/records/13921645)[*Media/*](https://libraries.mit.edu/opendata/open-data-mit-home/mit-prize/2024-mit-prize-for-open-data/)
 
 ---
 
@@ -49,5 +49,5 @@ The capacity expansion problem is a classical problem for energy system planning
 
 In light of a reliable and resilient power system under extreme weather and natural disasters, networked microgrids integrating local renewable resources have been adopted extensively to supply demands when the main utility experiences blackouts. However, the stochastic nature of renewables and unpredictable contingencies are difficult to address with the deterministic energy management framework. The paper proposes a comprehensive distributionally robust joint chance-constrained (DR-JCC) framework that incorporates microgrid island, power flow, distributed batteries and voltage control constraints. All chance constraints are solved jointly and each one is assigned to an optimized violation rate. To highlight, the JCC problem with the optimized violation rates has been recognized as NP-hard and challenging to solve. This paper proposes a novel evolutionary algorithm that successfully solves this problem and reduces the solution conservativeness (i.e., operation cost) by around 50% compared with the baseline Bonferroni Approximation. We construct three data-driven ambiguity sets to model uncertain solar forecast error distributions. The solution is thus robust for any distribution in sets with the shared moments and shape assumptions. The proposed method is validated by robustness tests based on these sets and firmly secures the solution robustness.
 
-### Paper 1: Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty [*Paper*](../assets/teaching/Distributionally_Robust_Joint_Chance-Constrained_Optimization_for_Networked_Microgrids_Considering_Contingencies_and_Renewable_Uncertainty.pdf)
+### Paper 1: Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty [*Paper*](../assets/teaching/Microgrids.pdf)
 
