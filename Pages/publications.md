@@ -25,7 +25,7 @@ charging infrastructure, selected from multiple charger types and potential loca
 
 The rise of artificial intelligence is driving surging electricity demand from data centers, expected to double or triple by 2030. My work explores two questions: (1) how to power energy-intensive hyperscale data centers with 24/7 renewable energy, and (2) how to manage their loads in real time to support grid stability.
 
-### Paper 1: Repurposing coal power plants into thermal energy storage for supporting zero-carbon data center[Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)[Code][Media]
+### Paper 1: Repurposing coal power plants into thermal energy storage for supporting zero-carbon data center[Paper](../assets/research/Repurposing_Coal_Power_Plants_into_Thermal_Energy_Storage_for_Supporting_Zero-carbon_Data_Centers.pdf)[Code][Media]
 
 ### Working Paper 2: Distributionally robust games for data center demand response coordination based on CPU utilization and quality of service
 
@@ -41,7 +41,7 @@ The capacity expansion problem is a classical problem for energy system planning
 
 ### Paper 1: The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis [*Paper*](../assets/research/Acticle_in_press.pdf) [Model Instruction](../assets/research/Supplementary_Materials.pdf) [*Code*](https://zenodo.org/records/12684827) [*Media*](https://news.mit.edu/2025/how-can-india-decarbonize-its-coal-dependent-electric-power-system-0506)
 
-### Paper 2: A dataset of the operating station heat rate for 806 Indian coal plant units using machine learning [Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)[Code][Media]
+### Paper 2: A dataset of the operating station heat rate for 806 Indian coal plant units using machine learning [*Paper*](../assets/research/data_in_brief.pdf)[Code][Media]
 
 ---
 
