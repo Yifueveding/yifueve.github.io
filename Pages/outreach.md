@@ -8,9 +8,8 @@ nav: true
 nav_order: 5
 ---
 
-*I did a range of academic outreach and communication works during my PhD. I am so greteful for these experiences and friends to help me go through ups and downs in research, find a fuller life during pandemic.*
 
-**University** 
+**University of Oxford** 
 
 *Science & Technology Section Editor, The Oxford Student* 			                                          Oct 2019 - Dec 2019
 + Reviewed and edited articles weekly for Science & Technology section of the biggest student newspaper in Oxford (over 15,000 paper copies each term to every college and online articles with over 2000+ views on average). 
@@ -19,8 +18,6 @@ nav_order: 5
 
 <h2> </h2>
 <img src="/img/newspaper.png" alt="newspaper">
-
-**College**
 
 *Vice-Chair, Social & Cultural Committee of Wolfson College*	                                             June 2020 – Apr 2021 
 + Co-organized college events (Freshers' week, Wolfson College ball committee 2019).  
