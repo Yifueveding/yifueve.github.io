@@ -31,6 +31,8 @@ The rise of artificial intelligence is driving surging electricity demand from d
 
 - Presented at IEEE PES General Meeing 2025 in July, 2025
 
+- Presented at New Jersey Institute of Technology in July, 2025
+
 - Accepted to present at INFORMS Workshop on Data Science 2025 in October, 2025
 
 ---
