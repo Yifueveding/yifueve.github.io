@@ -24,17 +24,17 @@ My research has been sponsored by several global leading utility and mining comp
 I have been also met and presented my research to many academic and industrial leaders, including GSM Association (GSMA) chief startegies officer, Laxmi Akkaraju, and Tata Power CEO, Dr. Praveer Sinha. 
 
 <figure style="text-align:center;">
-  <img src="/img/columbia.jpg" alt="Columbia" width="200">
+  <img src="/img/columbia.jpg" alt="Columbia" width="300">
   <figcaption> Met Prof. Donald Goldfarb at Columbia University </figcaption>
 </figure>
 
 
 <h2> </h2>
-<img src="/img/cornell.jpg" alt="cornell" width="200">
+<img src="/img/cornell.jpg" alt="cornell" width="300">
   <figcaption> Met Prof. Robert Bixby, the founder of Gurobi Optimizer at Cornell </figcaption>
 </figure>
 
 <h2> </h2>
-<img src="/img/turing.JPG" alt="turing" width="200">
+<img src="/img/turing.JPG" alt="turing" width="300">
   <figcaption> Presented ML forecasting for mobile demand research to GSM Association (GSMA) chief startegies officer, Laxmi Akkaraju </figcaption>
 </figure>
