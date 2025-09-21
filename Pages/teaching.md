@@ -39,7 +39,6 @@ nav_order: 5
   - Optimal control methods  
   - Kalman filtering
   - Controller performance analysis
-- [🎯 Tutorial Materials](../assets/teaching/control-systems-tutorials.pdf)
 
 ### Laboratory Demonstrator & Assessor | University of Oxford
 
