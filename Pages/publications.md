@@ -25,7 +25,7 @@ charging infrastructure, selected from multiple charger types and potential loca
 
 The rise of artificial intelligence is driving surging electricity demand from data centers, expected to double or triple by 2030. My work explores two questions: (1) how to power energy-intensive hyperscale data centers with 24/7 renewable energy, and (2) how to manage their loads in real time to support grid stability.
 
-### Paper 1:[Repurposing coal power plants into thermal energy storage for supporting zero-carbon data center](https://ieeexplore.ieee.org/document/10688708)
+### Paper 1: Repurposing coal power plants into thermal energy storage for supporting zero-carbon data center[Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)[Code][Media]
 
 ### Working Paper 2: Distributionally robust games for data center demand response coordination based on CPU utilization and quality of service
 
@@ -39,9 +39,9 @@ The rise of artificial intelligence is driving surging electricity demand from d
 
 Capcity expansion problem is one of the most classical problems in energy system planning, which requires multiple data sources as inputs. I leveraged the ML techniques 
 
-### Paper 1: The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis
+### Paper 1: The role of coal plant retrofitting strategies in developing India’s net-zero power system: a data-driven sub-national analysis [Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)[Code][Media]
 
-### Paper 2: A dataset of the operating station heat rate for 806 Indian coal plant units using machine learning
+### Paper 2: A dataset of the operating station heat rate for 806 Indian coal plant units using machine learning [Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)[Code][Media]
 
 ---
 
@@ -49,5 +49,5 @@ Capcity expansion problem is one of the most classical problems in energy system
 
 In light of a reliable and resilient power system under extreme weather and natural disasters, networked microgrids integrating local renewable resources have been adopted extensively to supply demands when the main utility experiences blackouts. However, the stochastic nature of renewables and unpredictable contingencies are difficult to address with the deterministic energy management framework. The paper proposes a comprehensive distributionally robust joint chance-constrained (DR-JCC) framework that incorporates microgrid island, power flow, distributed batteries and voltage control constraints. All chance constraints are solved jointly and each one is assigned to an optimized violation rate. To highlight, the JCC problem with the optimized violation rates has been recognized as NP-hard and challenging to solve. This paper proposes a novel evolutionary algorithm that successfully solves this problem and reduces the solution conservativeness (i.e., operation cost) by around 50% compared with the baseline Bonferroni Approximation. We construct three data-driven ambiguity sets to model uncertain solar forecast error distributions. The solution is thus robust for any distribution in sets with the shared moments and shape assumptions. The proposed method is validated by robustness tests based on these sets and firmly secures the solution robustness.
 
-### Paper 1: [Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty](https://ieeexplore.ieee.org/document/9709590)
+### Paper 1: Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty [Paper](../assets/teaching/IAP_GenX_introduction_2025.pdf)
 
