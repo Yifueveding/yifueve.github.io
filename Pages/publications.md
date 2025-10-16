@@ -47,7 +47,7 @@ The capacity expansion problem is a classical problem for energy system planning
 
 ---
 
-## Distributionally Robust Optimization (DRO) for Power Network Under Contingencies and Renewable Uncertainty
+## Distributionally Robust Optimization (DRO) for Power Network and Games
 
 In light of a reliable and resilient power system under extreme weather and natural disasters, networked microgrids integrating local renewable resources have been adopted extensively to supply demands when the main utility experiences blackouts. However, the stochastic nature of renewables and unpredictable contingencies are difficult to address with the deterministic energy management framework. The paper proposes a comprehensive distributionally robust joint chance-constrained (DR-JCC) framework that incorporates microgrid island, power flow, distributed batteries and voltage control constraints. All chance constraints are solved jointly and each one is assigned to an optimized violation rate. To highlight, the JCC problem with the optimized violation rates has been recognized as NP-hard and challenging to solve. This paper proposes a novel evolutionary algorithm that successfully solves this problem and reduces the solution conservativeness (i.e., operation cost) by around 50% compared with the baseline Bonferroni Approximation. We construct three data-driven ambiguity sets to model uncertain solar forecast error distributions. The solution is thus robust for any distribution in sets with the shared moments and shape assumptions. The proposed method is validated by robustness tests based on these sets and firmly secures the solution robustness.
 
