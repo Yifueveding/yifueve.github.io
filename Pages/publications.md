@@ -53,3 +53,5 @@ In light of a reliable and resilient power system under extreme weather and natu
 
 ### Paper 1: Distributionally Robust Joint Chance-Constrained Optimization for Networked Microgrids Considering Contingencies and Renewable Uncertainty [*Paper*](../assets/research/Microgrids.pdf)
 
+### Paper 2: Coordinating renewable microgrids for reliable reserve services: a distributionally robust chance-constrained game [*Paper*](https://dl.acm.org/doi/fullHtml/10.1145/3575813.3597342)
+
