@@ -31,8 +31,6 @@ nav_order: 5
 + Co-managed all students’ societies (20+) and major virtual/online social events at Wolfson college. 
 + Filmed the college virtual tour for freshers <a href="https://www.youtube.com/watch?v=TA7pkYPkD2I"> [link] </a> .  
 
-<h2> </h2>
-<img src="/img/introduce.jpg" alt="introduce">
 
 
 In the spare time, I do tennis, squash, and Karate!
