@@ -14,9 +14,6 @@ nav_order: 5
 + Session Chair at Institute for Operations Research and the Management Sciences (INFORMS) Annual meeting, Harnessing machine learning and advanced optimization for power system planning in developing countries,Seattle, Oct. 2024.
 
 <h2></h2>
-<img src="/img/open_data.png" alt="open data" width="400">
-
-<h2></h2>
 <div style="text-align: center;">
   <img src="/img/open_data.png" alt="open data" style="width:400px; height:auto;">
   <p style="font-size:14px; color:#555; margin-top:6px;">Serve as 2025 MIT Open Data Prize Judge</p>
