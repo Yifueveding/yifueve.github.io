@@ -1,7 +1,7 @@
 
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/img/Professional_headshot.JPG" 
+  <img src="/img/headshot.png" 
        alt="Yifu Eve Ding"
        style="max-width: 250px; 
               height: auto; 
