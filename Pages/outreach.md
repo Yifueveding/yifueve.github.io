@@ -14,7 +14,7 @@ nav_order: 5
 + Session Chair at Institute for Operations Research and the Management Sciences (INFORMS) Annual meeting, Harnessing machine learning and advanced optimization for power system planning in developing countries,Seattle, Oct. 2024.
 
 <h2></h2>
-<img src="/img/open_data.png" alt="open data" width="200">
+<img src="/img/open_data.png" alt="open data" width="400">
 
 **University of Oxford** 
 
@@ -24,7 +24,7 @@ nav_order: 5
 + Topics cover all STEM subjects, such as UK net-zero policy, quantum computing and the CERN team <a href="https://www.oxfordstudent.com/2019/06/07/net-zero-by-2050-the-most-ambitious-uk-climate-target/"> [link] </a>.
 
 <h2> </h2>
-<img src="/img/newspaper.png" alt="newspaper" width="200">
+<img src="/img/newspaper.png" alt="newspaper" width="400">
 
 *Vice-Chair, Social & Cultural Committee of Wolfson College*	                                             June 2020 – Apr 2021 
 + Co-organized college events (Freshers' week, Wolfson College ball committee 2019).  
