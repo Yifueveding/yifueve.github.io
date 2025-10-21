@@ -16,6 +16,13 @@ nav_order: 5
 <h2></h2>
 <img src="/img/open_data.png" alt="open data" width="400">
 
+<h2></h2>
+<div style="text-align: center;">
+  <img src="/img/open_data.png" alt="open data" style="width:400px; height:auto;">
+  <p style="font-size:14px; color:#555; margin-top:6px;">Serve as 2025 MIT Open Data Prize Judge</p>
+</div>
+
+
 **University of Oxford** 
 
 *Science & Technology Section Editor, The Oxford Student* 			                                          Oct 2019 - Dec 2019
