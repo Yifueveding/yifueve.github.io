@@ -32,6 +32,5 @@ nav_order: 5
 + Filmed the college virtual tour for freshers <a href="https://www.youtube.com/watch?v=TA7pkYPkD2I"> [link] </a> .  
 
 
-
 In the spare time, I do tennis, squash, and Karate!
 
