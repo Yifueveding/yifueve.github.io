@@ -13,6 +13,9 @@ nav_order: 5
 + Session Chair at 33rd European Conference on Operational Research, Stochastic models in energy systems planning and operations, June 2024, Copenhagen.
 + Session Chair at Institute for Operations Research and the Management Sciences (INFORMS) Annual meeting, Harnessing machine learning and advanced optimization for power system planning in developing countries,Seattle, Oct. 2024.
 
+<h2> </h2>
+<img src="/img/open_data.png" alt="open data">
+
 **University of Oxford** 
 
 *Science & Technology Section Editor, The Oxford Student* 			                                          Oct 2019 - Dec 2019
