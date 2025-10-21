@@ -4,8 +4,7 @@
        alt="Yifu Eve Ding"
        style="max-width: 350px; 
               height: auto; 
-              border-radius: 20px; 
-              border: 3px solid #666; 
+              border: none; 
               box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
 </div>
 
