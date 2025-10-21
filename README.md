@@ -1,15 +1,14 @@
 
-
-<div style="text-align: center; margin: 30px 0;">
+<div style="text-align: center; margin: 40px 0;">
   <img src="/img/headshot.png" 
        alt="Yifu Eve Ding"
-       style="max-width: 250px; 
+       style="max-width: 350px; 
               height: auto; 
-              border-radius: 15px; 
+              border-radius: 20px; 
               border: 3px solid #666; 
-              box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
-
+              box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
 </div>
+
 
 <div style="text-align: center; margin: 20px 0; font-size: 16px;">
   <a href="https://yifueve.github.io/cv/" style="margin: 0 8px; text-decoration: none; font-weight: 500;">CV</a> |
