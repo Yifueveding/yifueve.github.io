@@ -26,10 +26,12 @@ I hold a PhD in Engineering Science from the University of Oxford, where I worke
 
 Upcoming INFORMS 2025 TALKS:
 
-**Talk 1: Bayesian Distributionally Robust Games for Data Center Demand Response**
-Venue: Room B 306, Block 3 
-Time: October 25, 11:35 - 11:55
+🎙️ Talk 1: Bayesian Distributionally Robust Games for Data Center Demand Response
+ ⭐ Venue: Room B306, Block 3
+ ⭐ Time: October 25, 11:35–11:55 AM
 
-**Talk 2: Navigating Ambiguity in Scheduling: Applications in Transportation and Computing (Job Market Showcase)**
-Venue: Building A level 3 A 312
-Time: October 26, 1:51 - 2:09 pm
+🎙️ Talk 2 (Job Market Showcase): Navigating Ambiguity in Scheduling: Applications in Transportation and Computing
+ ⭐ Venue: Building A, Level 3, Room A312
+ ⭐ Time: October 26, 1:51–2:09 PM
+
+
