@@ -24,14 +24,4 @@ My research interests focus on data-driven operations and planning for sustainab
 I hold a PhD in Engineering Science from the University of Oxford, where I worked with [Prof. Malcolm McCulloch](https://eng.ox.ac.uk/people/malcolm-mcculloch/), [Prof. Thomas Morstyn](https://eng.ox.ac.uk/people/thomas-morstyn/) and other brilliant mentors.
 
 
-Upcoming INFORMS 2025 TALKS:
-
-🎙️ Talk 1: Bayesian Distributionally Robust Games for Data Center Demand Response
- ⭐ Venue: Room B306, Block 3
- ⭐ Time: October 25, 11:35–11:55 AM
-
-🎙️ Talk 2 (Job Market Showcase): Navigating Ambiguity in Scheduling: Applications in Transportation and Computing
- ⭐ Venue: Building A, Level 3, Room A312
- ⭐ Time: October 26, 1:51–2:09 PM
-
 
